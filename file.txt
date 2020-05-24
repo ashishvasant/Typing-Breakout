@@ -1,0 +1,5 @@
+This is all sample code to illustrate the game
+You need to type the words that appear here
+ and type fast so that the ball will be blocked
+that is in essence what the game does
+this can increase your typing speed and can also entertain
